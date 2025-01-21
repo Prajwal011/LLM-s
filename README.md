@@ -12,7 +12,7 @@ Chapter 1:Introduction to Large Language Models (LLMs)
 
 
 
--The history of LLMs
+- The history of LLMs
 
 
 
@@ -20,9 +20,9 @@ Chapter 2: Fundamentals of Natural Language Processing (NLP)
 
 
 
--Padding
+- Padding
 
--Truncation
+- Truncation
 
 - Creating tensors of tokens
 
@@ -34,9 +34,9 @@ Chapter 3: Getting Started with Transformers
 
 - How do Transformers work?
 
--Transformers
+- Transformers
 
--Types of transformers
+- Types of transformers
 
 
 
@@ -44,17 +44,17 @@ Chapter 4: Accessing Models
 
 
 
--text generation
+- text generation
 
 - text to text generation
 
--question answering
+- question answering
 
--text to image
+- text to image
 
--text classification
+- text classification
 
--Conclusion
+- Conclusion
 
 - Further Ways to Access some LLMS
 
@@ -70,21 +70,21 @@ Chapter 6: Fine tuning llm models
 
 
 
--Quantization in LLM
+- Quantization in LLM
 
--bitsandbytes
+- bitsandbytes
 
--Load Model and Tokenizer
+- Load Model and Tokenizer
 
--Traditional Fine-Tuning vs. LoRA
+- Traditional Fine-Tuning vs. LoRA
 
--QLoRA parameters
+- QLoRA parameters
 
--TrainingArguments
+- TrainingArguments
 
--Supervised Fine-Tuning with SFT (Text-Perturbed Linear Encoder-Function)
+- Supervised Fine-Tuning with SFT (Text-Perturbed Linear Encoder-Function)
 
--Futher Finetuning notebooks
+- Futher Finetuning notebooks
 
 
 
@@ -92,9 +92,9 @@ Chapter 7: RAG(Retrieval Augmented Generation)
 
 
 
--Retrieval Augmented Generation (RAG)
+- Retrieval Augmented Generation (RAG)
 
--Further Reading
+- Further Reading
 
 
 
@@ -106,9 +106,9 @@ Chapter 8: LLM Agents
 
 Chapter 9:Evaluation of trained model.
 
--llm evaluating metrics
+- llm evaluating metrics
 
--llm evaluation using langsmith
+- llm evaluation using langsmith
 
 
 

@@ -1,6 +1,7 @@
 LLM Course
 
 This repository contains materials for an introductory course on Large Language Models (LLMs).
+https://github.com/Prajwal011/LLM-s/blob/main/LLM's_Course.ipynb 
 
 Course Overview:
 

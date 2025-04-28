@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Groq API configuration
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "groq_key"
 
 # Initialize ChatGroq
 chat_model = ChatGroq(
